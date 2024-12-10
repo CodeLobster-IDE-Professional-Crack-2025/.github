@@ -1,1 +1,1 @@
-# .githuh
+# .github
